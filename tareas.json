@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Completar proyecto de Angular",
+    "estadoTarea": false
+  },
+  {
+    "id": 2,
+    "nombre": "Estudiar Express.js",
+    "estadoTarea": true
+  },
+  {
+    "id": 3,
+    "nombre": "Revisar documentación",
+    "estadoTarea": false
+  }
+]

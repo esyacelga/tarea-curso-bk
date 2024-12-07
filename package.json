@@ -1,0 +1,19 @@
+{
+  "name": "sy-trabajo-final-bk",
+  "version": "1.0.0",
+  "description": "Backend tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CEC",
+    "ISSPOL"
+  ],
+  "author": "syacelga",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
